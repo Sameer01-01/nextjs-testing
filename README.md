@@ -2,6 +2,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+Checking out, testing and praticing with nextjs 15 in this repo...
 Idk why you will fork or create a beanch for this but if you do...use yarn install and yarn dev.
 DO NOT USE NPM!!
 
