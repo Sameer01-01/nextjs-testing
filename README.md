@@ -2,6 +2,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+Idk why you will fork or create a beanch for this but if you do...use yarn install and yarn dev.
+DO NOT USE NPM!!
+
 First, run the development server:
 
 ```bash
