@@ -18,11 +18,10 @@ const Pageone = () => {
         </div>
         <div className='mt-5'>
             <a href="">Page four</a>
-        </div>
-        <div className='mt-5'>
-            <a href="">Page five</a>
-        </div>
+        
     </div>
+
+      
     
     </>
   )
