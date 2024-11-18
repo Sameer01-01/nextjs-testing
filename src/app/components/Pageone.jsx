@@ -1,6 +1,7 @@
 import React from 'react'
 
 const Pageone = () => {
+  
   return (
     <>
     <div className='bg-[#4b4b4b] w-60 rounded-lg p-2'>
@@ -18,11 +19,7 @@ const Pageone = () => {
         </div>
         <div className='mt-5'>
             <a href="">Page four</a>
-        
     </div>
-
-      
-    
     </>
   )
 }
