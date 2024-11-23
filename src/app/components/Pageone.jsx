@@ -11,6 +11,7 @@ const Pageone = () => {
         <div className=''>
             <a href="">Page one</a>
         </div>
+      
         <div className='mt-5'>
             <a href="">Page two</a>
         </div>
@@ -22,6 +23,7 @@ const Pageone = () => {
         <div className='mt-5'>
             <a href="">Page three</a>
         </div>
+      
         <div className='mt-5'>
             <a href="">Page four</a>
     </div>
