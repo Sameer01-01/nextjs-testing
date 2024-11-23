@@ -5,7 +5,7 @@ const Pageone = () => {
   return (
     <>
     <div className='bg-[#4b4b4b] w-60 rounded-lg p-2'>
-        <p className='text-white font-bold text-2xl text-center '>Dashboard</p>
+        <p className='text-white font-bold text-2xl text-center '>Contents</p>
     </div>
     <div className='w-60 text-center text-white font-bold  bg-[#4b4b4b] rounded-lg mt-5 p-5 '>
         <div className=''>
